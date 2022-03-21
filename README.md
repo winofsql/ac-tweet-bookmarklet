@@ -26,15 +26,15 @@ javascript:var d=document,w=window,enc=encodeURIComponent,e=w.getSelection,k=d.g
 
 ## 実行手順
 
-タイトル選択して、画像をクリップボットにコピーしておいてブックマークレットを実行する
+- タイトル選択して、画像をクリップボットにコピーしておいてブックマークレットを実行する
 
 ![image](https://user-images.githubusercontent.com/1501327/159195744-f67a8b7a-9108-4fc0-9a63-e56c64ffa4bf.png)
 
-ここで、画像を貼り付ける
+- ここで、画像を貼り付ける
 
 ![image](https://user-images.githubusercontent.com/1501327/159195799-89383ed6-3320-4b4e-8f6e-1113bec16684.png)
 
-空いているところになんか書く
+- 空いているところになんか書く
 
 ![image](https://user-images.githubusercontent.com/1501327/159195809-a913d143-4ce5-4133-bacb-5a76d04b54e1.png)
 

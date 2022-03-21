@@ -10,4 +10,9 @@ javascript:var d=document,w=window,enc=encodeURIComponent,e=w.getSelection,k=d.g
 
 で、
 
-![image](https://user-images.githubusercontent.com/1501327/159191577-bd3cf420-0996-4621-ae8c-15fa85487ed5.png)
+![image](https://user-images.githubusercontent.com/1501327/159191596-4449e7f6-bd57-4613-87fc-fdcc8647c592.png)
+
+長い文字列は改行とかたくさん入って以下の部分
+
+![image](https://user-images.githubusercontent.com/1501327/159191683-ceb96d2b-53ea-44b5-b0e0-dd1576333652.png)
+

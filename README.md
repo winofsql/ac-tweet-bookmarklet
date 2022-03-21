@@ -25,5 +25,8 @@ javascript:var d=document,w=window,enc=encodeURIComponent,e=w.getSelection,k=d.g
 ![image](https://user-images.githubusercontent.com/1501327/159191701-0c8a7fa9-2ce5-456f-8a9d-e85771cf2bd8.png)
 
 ## 実行手順
+
+タイトル選択して、画像をクリップボットにコピーしておいてブックマークレットを実行する
+
 ![image](https://user-images.githubusercontent.com/1501327/159195744-f67a8b7a-9108-4fc0-9a63-e56c64ffa4bf.png)
 
